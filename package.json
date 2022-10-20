@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/node": "^12.12.21",
+    "art-template": "^4.13.2"
+  }
+}
